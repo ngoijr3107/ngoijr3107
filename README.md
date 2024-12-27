@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Paschal Mizengo
-- 👀 I’m interested in developing with modern frontend frameworks (Vue JS, React JS, Angular JS) and Backend with PHP(Laravel Framework), Mobile App Development with Dart(Flutter)
+- 👀 I’m interested in developing with modern frontend frameworks (Vue JS, React JS) and Backend with PHP(Laravel Framework), Mobile App Development with Dart(Flutter)
 - 🪴 Currently learning Python
 - 💞️ I’m looking to collaborate on Open Source Projects
 - 📫 Email: pmizengo@gmail.com, Call/WhatsApp: +255 786 397 123
